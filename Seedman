@@ -1,0 +1,6 @@
+cd "/Users/brunodorjo/Desktop/AI Consulting/AntiGravity Workspace/plantworld"
+git init
+git add index.html
+git commit -m "seedman level 3 wip"
+git remote add origin https://github.com/YOUR_USERNAME/seedman-game.git
+git push -u origin main
